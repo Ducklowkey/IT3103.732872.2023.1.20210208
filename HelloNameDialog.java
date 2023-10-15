@@ -1,5 +1,5 @@
 package lab_01;
-//Pham Viet Hai - 20215044
+//Dam Tran Ngoc Duc - 20210208
 import javax.swing.JOptionPane;
 public class HelloNameDialog {
 

@@ -1,4 +1,4 @@
-//Pham Viet Hai - 20215044
+//Dam Tran Ngoc Duc- 20210208
 package lab_01;
 
 import javax.swing.JOptionPane;
